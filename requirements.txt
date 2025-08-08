@@ -1,0 +1,9 @@
+streamlit>=1.20.0
+pymupdf>=1.22.0      # fitz
+transformers>=4.30.0
+sentencepiece>=0.1.99
+torch>=1.13.0
+graphviz>=0.20.1
+fpdf>=1.7.2
+openai>=0.27.0       # optional (for API usage)
+python-magic>=0.4.27
